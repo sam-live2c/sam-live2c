@@ -57,7 +57,6 @@
 
 
 
-
 # 💫 About Me
 
 I'm **Sahanur Molla**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
