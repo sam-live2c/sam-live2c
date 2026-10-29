@@ -14,17 +14,6 @@ I learn by building, testing ideas, and improving practical solutions.
 
 ---
 
-## Featured Work
-
-| Project | Focus |
-| --- | --- |
-| [Prople Store](https://prople.co.in) | App discovery and developer visibility |
-| [Prople Store repository](https://github.com/sam-live2c/prople-apps-store-) | Source code and development |
-| [VibeOS](https://github.com/sam-live2c/VibeOS) | Operating-system-related experimentation |
-| [Lumina Library](https://github.com/sam-live2c/Lumina-Library) | Reading and library software |
-
----
-
 ## Technologies
 
 **Languages**
