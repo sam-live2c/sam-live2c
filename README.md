@@ -17,29 +17,19 @@ Building practical software products and exploring emerging technologies.
 
 ## 💫 About Me
 
-<div align="center">
-
 I'm **Sahanur Molla**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
 
-🚀 **Building:** Prople Store and products under Cloaktail Industries.
+- 🚀 **Building:** Prople Store and products under Cloaktail Industries.
+- 🤖 **Exploring:** Artificial intelligence, robotics, automation, and systems engineering.
+- 💻 **Developing:** Web applications, developer tools, and practical software solutions.
+- 🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
+- 🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
 
-🤖 **Exploring:** Artificial intelligence, robotics, automation, and systems engineering.
-
-💻 **Developing:** Web applications, developer tools, and practical software solutions.
-
-🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
-
-🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
-
-*Learning through experimentation, solving real-world problems, and turning ambitious ideas into working products.*
-
-</div>
+I believe in learning through experimentation, solving real-world problems, and turning ambitious ideas into working products.
 
 ---
 
 ## 💻 Tech Stack
-
-<div align="center">
 
 ### Languages & Web Technologies
 
@@ -71,8 +61,6 @@ I'm **Sahanur Molla**, a founder and software developer focused on building prac
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
 
 ---
 
