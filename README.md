@@ -1,19 +1,47 @@
 
-# 💫 About Me
+<div align="center">
 
-I'm **Sam**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
+# Sam
 
-- 🚀 **Building:** Prople Store and products under Cloaktail Industries.
-- 🤖 **Exploring:** AI, robotics, automation, and systems engineering.
-- 💻 **Developing:** Web applications, developer tools, and practical software solutions.
-- 🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
-- 🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
+### Founder · Software Developer · Technology Builder
 
-I believe in learning through experimentation, solving real-world problems, and turning ambitious ideas into working products.
+Building practical software products and exploring emerging technologies.
 
-# 💻 Tech Stack
+[![Prople Store](https://img.shields.io/badge/Building-Prople_Store-2563EB?style=flat-square)](https://prople.co.in)
+[![Cloaktail](https://img.shields.io/badge/Working_toward-Cloaktail-111827?style=flat-square)](https://cloaktail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sam--live2c-181717?style=flat-square&logo=github)](https://github.com/sam-live2c)
 
-**Languages & Web Technologies**
+</div>
+
+---
+
+## 💫 About Me
+
+<div align="center">
+
+I'm **Sahanur Molla**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
+
+🚀 **Building:** Prople Store and products under Cloaktail Industries.
+
+🤖 **Exploring:** Artificial intelligence, robotics, automation, and systems engineering.
+
+💻 **Developing:** Web applications, developer tools, and practical software solutions.
+
+🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
+
+🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
+
+*Learning through experimentation, solving real-world problems, and turning ambitious ideas into working products.*
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages & Web Technologies
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +52,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Development**
+### Frameworks & Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,7 +60,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-**Cloud, Infrastructure & Databases**
+### Cloud, Infrastructure & Databases
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -44,7 +72,13 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-# 📊 GitHub Stats
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sam-live2c&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -52,10 +86,16 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=sam-live2c&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sam-live2c&color=0e75b6&style=flat)](https://github.com/sam-live2c)
+*Learn continuously. Build thoughtfully. Solve real problems.*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sam-live2c&color=0e75b6&style=flat)
 
 </div>
