@@ -13,15 +13,13 @@ Building practical software products and exploring emerging technologies.
 
 </div>
 
----
-
 ## 💫 About Me
 
 I'm **Sam**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
 
 - 🚀 **Building:** Prople Store and products under Cloaktail Industries.
 - 🤖 **Exploring:** Artificial intelligence, robotics, automation, and systems engineering.
-- 💻 **Developing:** Web applications, developer tools, and practical software solutions.
+- 💻 **Developing:** Web applications, developer tools, mobile applications, and system-level software.
 - 🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
 - 🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
 
@@ -51,6 +49,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Cloud, Infrastructure & Databases
 
