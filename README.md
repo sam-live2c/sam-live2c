@@ -1,3 +1,4 @@
+
 # 💫 About Me
 
 I'm **Sam**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
@@ -12,7 +13,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 # 💻 Tech Stack
 
-**Languages**
+**Languages & Web Technologies**
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,6 +22,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Development**
 
