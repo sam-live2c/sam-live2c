@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Sam
@@ -71,7 +70,7 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sam-live2c&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sam-live2c&theme=dark&hide_border=true)
+[View my GitHub contribution activity](https://github.com/sam-live2c?tab=overview)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=sam-live2c&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
