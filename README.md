@@ -1,28 +1,32 @@
+
 <div align="center">
 
 # Sam
 
-### Founder · Software Developer · Technology Builder
+### Founder · Software Developer · AI Builder
 
-Building practical software products and exploring emerging technologies.
+Building AI-powered products and exploring the engineering behind emerging technologies.
 
-[![Prople Store](https://img.shields.io/badge/Building-Prople_Store-2563EB?style=flat-square)](https://prople.co.in)
-[![Cloaktail](https://img.shields.io/badge/Working_toward-Cloaktail-111827?style=flat-square)](https://cloaktail.com)
+[![Cloudbase AI](https://img.shields.io/badge/Building-Cloudbase_AI-6366F1?style=flat-square)](https://github.com/sam-live2c/Cloudbase)
+[![Cloaktail](https://img.shields.io/badge/Founder-Cloaktail-111827?style=flat-square)](https://cloaktail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sam--live2c-181717?style=flat-square&logo=github)](https://github.com/sam-live2c)
 
 </div>
 
 ## 💫 About Me
 
-I'm **Sam**, a founder and software developer focused on building practical products and exploring the engineering behind emerging technologies.
+I'm **Sam**, a founder and software developer focused on building practical software products, AI-powered applications, and exploring the engineering behind emerging technologies.
 
-- 🚀 **Building:** Prople Store and products under Cloaktail Industries.
-- 🤖 **Exploring:** Artificial intelligence, robotics, automation, and systems engineering.
-- 💻 **Developing:** Web applications, developer tools, mobile applications, and system-level software.
-- 🔐 **Interested in:** Privacy-focused technology, open source, and reliable systems.
-- 🔬 **Studying:** Mathematics, physics, and the foundations of advanced engineering.
+- 🚀 **Building:** Cloudbase AI — an AI platform designed to bring powerful language models into one accessible experience.
+- 🧠 **Exploring:** Artificial intelligence, large language models, AI agents, automation, and intelligent systems.
+- 🌐 **Developing:** AI applications, developer tools, web applications, mobile software, and system-level technologies.
+- 🔌 **Working with:** OpenRouter API to access a wide range of AI models from different providers, including free model options.
+- 🔐 **Interested in:** Open source, privacy-focused technology, reliable systems, and accessible AI.
+- 🔬 **Studying:** Mathematics, physics, computer science, and the foundations of advanced engineering.
 
 I believe in learning through experimentation, solving real-world problems, and turning ambitious ideas into working products.
+
+My goal is to build technology that makes powerful tools more accessible, useful, and practical for everyone.
 
 ---
 
@@ -49,6 +53,13 @@ I believe in learning through experimentation, solving real-world problems, and 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### AI & Model Infrastructure
+
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-0F172A?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge)
 
 ### Cloud, Infrastructure & Databases
 
@@ -80,10 +91,10 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 <div align="center">
 
-*Learn continuously. Build thoughtfully. Solve real problems.*
+*Learn continuously. Build thoughtfully. Make AI accessible.*
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sam-live2c&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sam-live2c&color=6366f1&style=flat)
 
 </div>
